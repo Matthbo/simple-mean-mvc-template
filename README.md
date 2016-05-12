@@ -11,13 +11,14 @@ Just install the module via npm:
 ```
 $ npm install
 ```
+This will install all the required node modules and bower modules.
+
 
 Run the server like this:
 ```
 $ node server
 ```
 
-This will install all the required node modules and bower modules.
 
 ##Automaticly restart node server
 Nodemon is a module which will restart when a change is made
